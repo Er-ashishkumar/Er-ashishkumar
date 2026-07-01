@@ -6,12 +6,7 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Er-ashishkumar">
-    <img src="https://img.shields.io/github/followers/Er-ashishkumar?label=Followers&style=for-the-badge&color=0ea5e9" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Er-ashishkumar&label=Profile%20Views&style=for-the-badge&color=0ea5e9" />
-</p>
+
 
 ---
 
@@ -49,23 +44,32 @@
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,js,php,html,css" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ### Frameworks & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=fastapi,mysql,git,github,vscode" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ### AI & Computer Vision
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=opencv" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=yolo&logoColor=white" />
+<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=mediapipe&logoColor=white" />
 </p>
-
-- YOLOv8
-- MediaPipe
 
 ---
 
@@ -107,13 +111,6 @@ AI-powered real-time surveillance system for detecting suspicious activities usi
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Er-ashishkumar&theme=tokyonight&no-frame=true&margin-w=15&row=1&column=6"/>
-</p>
-
----
 
 # 📈 Contribution Graph
 
@@ -134,12 +131,8 @@ AI-powered real-time surveillance system for detecting suspicious activities usi
 # 📫 Connect With Me
 
 <p align="center">
-<a href="https://github.com/Er-ashishkumar">
-<img src="https://skillicons.dev/icons?i=github" width="48"/>
-</a>
-
 <a href="https://www.linkedin.com/in/er-ashishkumar/">
-<img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
 

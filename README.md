@@ -111,16 +111,6 @@ AI-powered real-time surveillance system for detecting suspicious activities usi
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Er-ashishkumar&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Er-ashishkumar/Er-ashishkumar/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="center">

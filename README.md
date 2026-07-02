@@ -113,14 +113,6 @@ AI-powered real-time surveillance system for detecting suspicious activities usi
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Er-ashishkumar/Er-ashishkumar/output/github-contribution-grid-snake-dark.svg">
-</p>
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
